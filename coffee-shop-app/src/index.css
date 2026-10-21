@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-coffee: #c77d4c;
+  --color-coffee-dark: #b96c3d;
+  --font-sans: "DM Sans", "Segoe UI", sans-serif;
+}
